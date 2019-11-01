@@ -28,7 +28,7 @@ _Spec: the program returns "I'm sorry, Dave. I'm afraid I can't do that." if the
 
 _Spec: the program returns the response of the largest digit if more than one are present in a number_
   * _Input: 23_
-  * _Output: 0,1,...,21,22,"I'm sorry, Dave. I'm afraid I can't do that.",24_
+  * _Output: 0,1,...,(21)"Boop",(22)"Boop",(23)"I'm sorry, Dave. I'm afraid I can't do that.",(24)"Boop_
 
 ## Setup/Installation Requirements
 
