@@ -26,4 +26,8 @@ $(document).ready(function() {
 
     $(".results").append(string + ":  " + result + "<br />");
   });
+  $("form#clear").click(function(event) {
+    event.preventDefault();
+    $(".results").html("");
+  });
 });
