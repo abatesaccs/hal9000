@@ -1,5 +1,5 @@
-var hal9000 = new function(){
-
+var hal9000 = function(){
+  
 }
 
 
