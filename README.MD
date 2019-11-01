@@ -28,15 +28,15 @@ _Spec: the program returns "I'm sorry, Dave. I'm afraid I can't do that." if the
 
 _Spec: the program returns the response of the largest digit if more than one are present in a number_
   * _Input: 23_
-  * _Output: 0,1,...,(21)"Boop",(22)"Boop",(23)"I'm sorry, Dave. I'm afraid I can't do that.",(24)"Boop_
+  * _Output: 0,(1)"Beep",...,(21)"Boop",(22)"Boop",(23)"I'm sorry, Dave. I'm afraid I can't do that.",(24)"Boop_
 
 ## Setup/Installation Requirements
 
-* _Go to https://github.com/abatesaccs/ProgrammingLangSel _
+* _Go to https://github.com/abatesaccs/hal9000 _
 * _Clone or download all files in the repository (make sure they are contained in the same file!)_
 * _Open the index.html file_
 
-* _OR go to: https://abatesaccs.github.io/ProgrammingLangSel _
+* _OR go to: https://abatesaccs.github.io/hal9000 _
 
 _The file may have inconsistencies when using older browser versions_
 
