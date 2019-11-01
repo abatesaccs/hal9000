@@ -1,5 +1,10 @@
-var hal9000 = function(){
-  
+var hal9000 = function(num){
+  var resultsArray = new Array();
+
+  for(i = 0; i <= num; i++){
+    resultsArray[i] = i;
+  }
+  console.log(resultsArray);
 }
 
 
