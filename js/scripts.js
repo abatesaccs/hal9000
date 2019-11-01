@@ -8,6 +8,8 @@ var hal9000 = function(num){
       resultsArray[i] = "Beep";
     } else if (holder.includes(2)){
       resultsArray[i] = "Boop";
+    } else if (holder.includes(3)) {
+      resultsArray[i] = "I'm sorry, Dave. I'm afraid I can't do that.";
     }
   }
   console.log(resultsArray);
