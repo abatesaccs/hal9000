@@ -6,6 +6,8 @@ var hal9000 = function(num){
     var holder = resultsArray[i].toString();
     if (holder.includes(1)){
       resultsArray[i] = "Beep";
+    } else if (holder.includes(2)){
+      resultsArray[i] = "Boop";
     }
   }
   console.log(resultsArray);
